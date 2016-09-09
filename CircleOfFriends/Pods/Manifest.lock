@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.0.1)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SVProgressHUD (2.0.3)
+  - YYText (1.0.5)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.1)
+  - SDWebImage (~> 3.8.1)
+  - SVProgressHUD (~> 2.0.3)
+  - YYText (~> 1.0.5)
+
+SPEC CHECKSUMS:
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  YYText: ac09660c9ccd9b817f409a20caa6f5587444d2ae
+
+PODFILE CHECKSUM: 67d07724f226888c7b054370838f18eee271e887
+
+COCOAPODS: 1.0.1
